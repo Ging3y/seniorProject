@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ACER_STUDENT_4</Machine>
+    <WindowsUser>acerstudent4</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>A6BE00F6E605214CFA0EAE5B51A9A25215494604C20ED48796D8E1DB6CB9D2D8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>abd180de-6e5b-4e46-b5a8-50410f16b0fd_1.0.0.0_neutral__9c7j8z9zs8gs6</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>abd180de-6e5b-4e46-b5a8-50410f16b0fd_9c7j8z9zs8gs6!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>abd180de-6e5b-4e46-b5a8-50410f16b0fd</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=acerstudent4</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\acerstudent4\Desktop\Repos\Personal\Guessing Game\guessingGame\guessingGame\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-30T04:00:12.329</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\acerstudent4\Desktop\Repos\Personal\Guessing Game\guessingGame\guessingGame\bin\Debug\guessingGame.exe">
+      <PackagePath>guessingGame.exe</PackagePath>
+      <Modified>2014-01-31T06:40:36.473</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\acerstudent4\Desktop\Repos\Personal\Guessing Game\guessingGame\guessingGame\bin\Debug\guessingGame.pdb">
+      <PackagePath>guessingGame.pdb</PackagePath>
+      <Modified>2014-01-31T06:40:36.449</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\acerstudent4\Desktop\Repos\Personal\Guessing Game\guessingGame\guessingGame\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T04:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\acerstudent4\Desktop\Repos\Personal\Guessing Game\guessingGame\guessingGame\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T04:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\acerstudent4\Desktop\Repos\Personal\Guessing Game\guessingGame\guessingGame\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T04:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\acerstudent4\Desktop\Repos\Personal\Guessing Game\guessingGame\guessingGame\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T04:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\acerstudent4\Desktop\Repos\Personal\Guessing Game\guessingGame\guessingGame\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2014-01-30T03:59:45.526</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\acerstudent4\Desktop\Repos\Personal\Guessing Game\guessingGame\guessingGame\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-27T00:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\acerstudent4\Desktop\Repos\Personal\Guessing Game\guessingGame\guessingGame\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2014-01-31T06:40:34.923</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\acerstudent4\Desktop\Repos\Personal\Guessing Game\guessingGame\guessingGame\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-01-30T04:00:12.225</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
